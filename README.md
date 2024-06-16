@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...![Git Version](/git_version.png)
+updating the README.md file
